@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "senyumanku",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8bc46f94-3236-48fd-9e4f-d81341860ec8",
+			"database_name": "senyumanku"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
